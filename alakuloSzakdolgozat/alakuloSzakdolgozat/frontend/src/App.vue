@@ -57,6 +57,7 @@ nav {
 nav a {
   font-weight: bold;
 
+
   color: black !important;
 }
 
