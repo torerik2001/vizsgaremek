@@ -19,4 +19,5 @@ npm i | npm run serve
 # 3. console 
 npm i | npm start
 
-
+#git repo:
+https://github.com/torerik2001/vizsgaremek.git
